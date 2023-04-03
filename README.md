@@ -1,13 +1,8 @@
-Olá me chamo Luis Zanin!
+<div> <h2>Olá me chamo Luis Zanin!</h2>
 
-- Estudante de análise e desenvolvimento de sistemas - UPF
-
-<!--# 👋 Developing this area 👋-->
-<div align="center">
-  <h1 align="center"> Hello World, my name is Luis Eduardo Cervo Zanin </h1>
-  <br>
-  <br>
+<h3>Estudante de análise e desenvolvimento de sistemas - UPF</h3>
 </div>
+<!--# 👋 Developing this area 👋-->
 
 <div align="center"style="display: inline_block">
   <!--<a href="https://www.linkedin.com/in/rafaelmelo2234">-->
