@@ -5,7 +5,7 @@
   </h1>
   
   <p align="center">
-    Estudante de análise e desenvolvimentos de sistemas - UPF
+    Estudante de Ciência da Computação em ATITUS
   </p>
   
   
