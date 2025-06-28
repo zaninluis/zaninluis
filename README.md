@@ -5,7 +5,7 @@
   </h1>
   
   <p align="center">
-    Estudante de Ciência da Computação em ATITUS
+    Estudante de Ciência da Computação, Suporte N1 na Atua Sistemas by Nstech
   </p>
   
   
